@@ -28,9 +28,8 @@ Make sure `test.bin` is in the same directory.
 
 push ebp mov ebp, esp unknown opcode 0x53 ... ret
 
-pgsql
-Copy
-Edit
+### Note
+This disassembler is specific to my test.bin file so changes will have to be made when reading a different `.bin`
 
 ## Author
 
